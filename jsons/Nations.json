@@ -1,38 +1,74 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
+		"name": "Proto-Finnic Holy Roman Khaganate",
+		"leaderName": "Khagan Spurdo Spärde I",
+		"adjective": ["proto-finnic"],
+		"startBias": ["Tundra"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
-		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
-		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"startIntroPart1": "You are Khagan Spurdo Spärde of the Proto-Finnic Holy Roman Khaganate.",
+		"startIntroPart2": "From the ancient forests of the North, our empire rises to reclaim what is rightfully ours.",
+	
+		"declaringWar": "The songs of war echo through the tundra! Your end begins now!",
+		"attacked": "You dare challenge the might of the Khaganate? Fools!",
+		"defeated": "This is but a temporary frost. The Khaganate shall endure beyond the stars.",
+		"introduction": "We are the guardians of the North, the eternal Khaganate. Do not squander this audience.",
+	
+		"neutralHello": "Greetings from the frozen halls of our empire.",
+		"neutralLetsHearIt": ["Speak your intentions.","The Khagan listens.","You may proceed."],
+		"neutralNo": ["That does not align with our ambitions.","The Khagan says no.","We must refuse."],
+		"neutralYes": ["This pleases the Khagan.","Agreed.","Yes, that is acceptable."],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "State your purpose.",
+		"hateLetsHearIt": ["Speak quickly!","You waste our time.","State your business."],
+		"hateNo": ["Unacceptable!","That is an affront to the Khagan!","We cannot permit this!"],
+		"hateYes": ["We agree.","Fine, if only to further our cause.","So be it."],
+	
+		"afterPeace": "A pause in the storm is wise. But the frost always returns.",
+		"tradeRequest": "You are fortunate the Khaganate considers this proposal worthy of discussion."
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"outerColor": [255,255,255],
+		"innerColor": [0,50,255],
+		"uniqueName": "Fingolian Cavalry",
+		"cities": ["Helsinki","Talinna","Järvilinna","Kivisaari","Stockluoto","Staare","Maarianlinnake","Viilna","Ooslo",
+			"Kauppasatama","Hengästynyt","Petrosko","Valkometsä","Kasaani","Ulaanbaatar","Kuninvuori","Varsova","Tuurikaupunki","Leer",
+			"Trevaa","Karhusuo","Tursaskoti","Kahlaamo","Mustajoki","Giron","Moorman","Valojenkaupunki","Vihreäontto","Mustalampi",
+			"Joensuu","Markkinat","Munkkikaupunki","Argantoraati","Kioviaa","Tyraassatama"]
+	},
+	{
+		"name": "Great Hwan Empire",
+		"leaderName": "Emperor Kim Il-Sung",
+		"adjective": ["hwan"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "The Great Hwan Empire extends its dominance over all that lies before us.",
+		"startIntroPart2": "Bow before the inevitable march of history, for the Hwan shall prevail!",
+	
+		"declaringWar": "You dare oppose the might of the Hwan Empire? Prepare to be annihilated!",
+		"attacked": "Foolish aggression will be met with overwhelming retaliation!",
+		"defeated": "This setback is but a momentary pause in the Hwan Empire's eternal ascendancy.",
+		"introduction": "I am Kim Il Sung, Emperor of the Hwan Empire. History bends to my will, and so shall you.",
+	
+		"neutralHello": "What business do you bring before the Empire?",
+		"neutralLetsHearIt": ["Speak quickly.","You may address the Empire.","What do you propose?"],
+		"neutralNo": ["The Empire finds this unacceptable.","No.","This cannot be agreed upon."],
+		"neutralYes": ["This is acceptable.","The Emperor consents.","Yes, this pleases us."],
+	
+		"hateHello": "What insolence compels you to speak to me?",
+		"hateLetsHearIt": ["You waste my time.","Speak, before my patience runs out.","Make your point quickly."],
+		"hateNo": ["Absolutely not.","The Hwan Empire rejects this outright.","You insult us with this proposal."],
+		"hateYes": ["Reluctantly, we agree.","The Empire will tolerate this for now.","Do not mistake this for favor."],
+	
+		"afterPeace": "The Emperor grants you this limited peace. Use your time well.",
+		"tradeRequest": "The great Kim Il-Sung deems this trade favorable, accept."
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [130,0,0],
+		"innerColor": [255,200,0],
+		"uniqueName": "Blood Magic",
+		"cities": ["Pyongyang","Seoul","Hwanyu","Gyeongju","Dokyo","Heijo-Kyo","Beijing","Xianyang","Giza",
+			"Jeju","Bangkog","Gyoto","Simcheon","Hochinmisi","Dongguan","Nagoya","Taipei","Osaka",
+			"Gwangjeou","Samaleukanteu","Asigabateu","Aseutana","Tajikenteu","Duseujanbeu","Balkeu","Kiba","Bukala",
+			"Meobeu","Kim Jong-Un City"]
 	}
 ]
