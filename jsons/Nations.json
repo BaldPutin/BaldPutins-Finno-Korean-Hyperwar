@@ -29,7 +29,8 @@
 		
 		"outerColor": [255,255,255],
 		"innerColor": [0,50,255],
-		"uniqueName": "Fingolian Cavalry",
+		"uniqueName": "Pre-Hyperwar Science and Fingolian Cavalry",
+		"uniques": [""],
 		"cities": ["Helsinki","Talinna","Järvilinna","Kivisaari","Stockluoto","Staare","Maarianlinnake","Viilna","Ooslo",
 			"Kauppasatama","Hengästynyt","Petrosko","Valkometsä","Kasaani","Ulaanbaatar","Kuninvuori","Varsova","Tuurikaupunki","Leer",
 			"Trevaa","Karhusuo","Tursaskoti","Kahlaamo","Mustajoki","Giron","Moorman","Valojenkaupunki","Vihreäontto","Mustalampi",
@@ -65,7 +66,7 @@
 
 		"outerColor": [130,0,0],
 		"innerColor": [255,200,0],
-		"uniqueName": "Blood Magic",
+		"uniqueName": "Pre-Hyperwar Science and Blood Magic",
 		"cities": ["Pyongyang","Seoul","Hwanyu","Gyeongju","Dokyo","Heijo-Kyo","Beijing","Xianyang","Giza",
 			"Jeju","Bangkog","Gyoto","Simcheon","Hochinmisi","Dongguan","Nagoya","Taipei","Osaka",
 			"Gwangjeou","Samaleukanteu","Asigabateu","Aseutana","Tajikenteu","Duseujanbeu","Balkeu","Kiba","Bukala",
