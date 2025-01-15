@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Proto-Finnic Holy Roman Khaganate",
+		"name": "The Proto-Finnic Holy Roman Khaganate",
 		"leaderName": "Khagan Spurdo Spärde I",
 		"adjective": ["proto-finnic"],
 		"startBias": ["Tundra"],
@@ -36,7 +36,7 @@
 			"Joensuu","Markkinat","Munkkikaupunki","Argantoraati","Kioviaa","Tyraassatama"]
 	},
 	{
-		"name": "Great Hwan Empire",
+		"name": "The Great Hwan Empire",
 		"leaderName": "Emperor Kim Il-Sung",
 		"adjective": ["hwan"],
 		"startBias": ["Coast"],
