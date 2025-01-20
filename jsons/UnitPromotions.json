@@ -2,9 +2,9 @@
 
 	{
 		"name": "Autism",
-		"uniques": ["Cannot attack <if adjacent to a [all] unit>"],
+		"uniques": ["Cannot attack <when adjacent to a [all] unit>"],
 		"unitTypes": ["Sword","Gunpowder","Mounted","Scout","Siege","Archery","Ranged Gunpowder","Armored","Melee Water","Ranged Water","Submarine"],
-        	"row": 0,
+        	"row": 1,
         	"column": 0
     	},
 
