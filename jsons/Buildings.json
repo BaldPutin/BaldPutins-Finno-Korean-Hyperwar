@@ -3,7 +3,7 @@
 		"name": "Mass Autism Project",
 		"uniqueTo": "The Great Hwan Empire",
 		"cost": 1500,
-		"requiredTech": "Agriculture",
+		"requiredTech": "Lasers",
 		"isNationalWonder": true,
 		"uniques": ["Comment [Unlocks building of the Mass Autism Array]", "Cannot be hurried", "Triggers a global alert upon completion", "Can only be built <in cities with a [The Pyramids]>"]
 	}
