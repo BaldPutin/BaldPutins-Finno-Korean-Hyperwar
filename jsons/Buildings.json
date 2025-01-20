@@ -5,6 +5,6 @@
 		"cost": 1,
 		"requiredTech": "Agriculture",
 		"isNationalWonder": true,
-		"uniques": ["Comment [Unlocks building of the Giza Mass Autism Array]", "Cannot be hurried"]
+		"uniques": ["Comment [Unlocks building of the Mass Autism Array]", "Cannot be hurried"]
 	}
 ]
