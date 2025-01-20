@@ -2,9 +2,8 @@
 	{
 		"name": "Mass Autism Project",
 		"uniqueTo": "The Great Hwan Empire",
-		"cost": 1500,
+		"cost": 1,
 		"isNationalWonder": true,
-		"requiredTech": "Future Tech"
 		"uniques": ["Comment [Unlocks building of the Giza Mass Autism Array]", "Cannot be hurried"]
 	}
 ]
