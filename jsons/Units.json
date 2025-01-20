@@ -7,7 +7,7 @@
 		"strength": 420,
 		"rangedStrength": 420,
 		"range": 69,
-		"cost": 1,
+		"cost": 1000,
 		"requiredTech": "Agriculture",
 		"promotions" : ["Evasion"],
 		"uniques": ["[non-[The Great Hwan Empire]] units gain the [Autism] promotion", "[-1] population [in enemy cities]", "Nuclear weapon of Strength [1]", "Only available <if [Mass Autism Project] is constructed>", "Blast radius [3]", "Limited to [1] per Civilization"],
