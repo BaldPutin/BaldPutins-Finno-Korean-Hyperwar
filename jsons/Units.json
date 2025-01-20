@@ -10,7 +10,7 @@
 		"cost": 1000,
 		"requiredTech": "Future Tech",
 		"promotions" : ["Evasion"],
-		"uniques": ["[non-[The Great Hwan Empire]] units gain the [Autism] promotion", "Nuclear weapon of Strength [1]", "Only available <if [Mass Autism Project] is constructed>", "Blast radius [6]"],
+		"uniques": ["[non-[The Great Hwan Empire]] units gain the [Autism] promotion", "[-1] population [in enemy cities]", "Nuclear weapon of Strength [1]", "Only available <if [Mass Autism Project] is constructed>", "Blast radius [6]"],
 		"attackSound": "nuke"
 	}
 ]
