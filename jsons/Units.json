@@ -1,17 +1,16 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"name": "Mass Autism Array",
+		"unitType": "Atomic Bomber",
+		"uniqueTo": "The Great Hwan Empire"
+		"movement": 1,
+		"strength": 420,
+		"rangedStrength": 420,
+		"range": 69,
+		"cost": 1000,
+		"requiredTech": "Future Tech",
+		"promotions" : ["Evasion"],
+		"uniques": ["[non-[The Great Hwan Empire]] units gain the [Autism] promotion", "Nuclear weapon of Strength [1]", "Only available <if [Mass Autism Project] is constructed>", "Blast radius [6]"],
+		"attackSound": "nuke"
 	}
 ]
