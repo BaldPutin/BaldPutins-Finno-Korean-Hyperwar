@@ -7,7 +7,8 @@
 		"strength": 420,
 		"rangedStrength": 420,
 		"range": 69,
-		"cost": 1000,
+		"cost": 1,
+		"requiredTech": "Masonry",
 		"promotions" : ["Evasion"],
 		"uniques": ["[Enemy] units gain the [Autism] promotion <with [33]% chance>", "[-1] population [in enemy cities]", "Nuclear weapon of Strength [1]", "Only available <if [Mass Autism Project] is constructed>", "Blast radius [3]", "Limited to [1] per Civilization"],
 		"attackSound": "nuke"
